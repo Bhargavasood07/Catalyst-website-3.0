@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "slug": "campus-copilot",
+      "name": "Campus Copilot",
+      "summary": "A retrieval-augmented assistant that answers questions about timetables, notices and the student handbook, with a citation for every answer.",
+      "status": "shipped",
+      "year": 2026,
+      "stack": ["Python", "FastAPI", "pgvector", "Next.js"],
+      "team": ["Kabir Sethi", "Riya Choudhary", "Dev Patel"],
+      "links": { "repo": "https://github.com/catalyst-gen-ai/campus-copilot", "demo": "https://example.com" },
+      "featured": true
+    },
+    {
+      "slug": "signbridge",
+      "name": "SignBridge",
+      "summary": "Real-time Indian Sign Language recognition from a laptop webcam. Started as the winning Synthesis 2026 build.",
+      "status": "in-progress",
+      "year": 2026,
+      "stack": ["PyTorch", "MediaPipe", "ONNX"],
+      "team": ["Ishita Rao", "Arjun Nair"],
+      "links": { "repo": "https://github.com/catalyst-gen-ai/signbridge", "video": "https://youtube.com" }
+    },
+    {
+      "slug": "tiny-reasoner",
+      "name": "Tiny Reasoner",
+      "summary": "Reproducing reinforcement-learning-trained reasoning on a 0.5B model, with a write-up of what did and didn't transfer.",
+      "status": "research",
+      "year": 2026,
+      "stack": ["PyTorch", "TRL", "vLLM"],
+      "team": ["Aditya Joshi", "Aanya Kapoor"],
+      "links": { "paper": "https://example.com", "repo": "https://github.com/catalyst-gen-ai/tiny-reasoner" }
+    },
+    {
+      "slug": "lab-notes",
+      "name": "Lab Notes",
+      "summary": "Turns handwritten lab records into structured, searchable notes using a vision-language model.",
+      "status": "shipped",
+      "year": 2025,
+      "stack": ["Qwen-VL", "Supabase", "React Native"],
+      "team": ["Sana Qureshi", "Harsh Singh"],
+      "links": { "demo": "https://example.com" }
+    },
+    {
+      "slug": "diffusion-from-zero",
+      "name": "Diffusion from zero",
+      "summary": "A teaching repo that builds a diffusion model up from first principles in seven notebooks. Used in our workshops.",
+      "status": "archived",
+      "year": 2025,
+      "stack": ["JAX", "Jupyter"],
+      "team": ["Vihaan Malhotra"],
+      "links": { "repo": "https://github.com/catalyst-gen-ai/diffusion-from-zero" }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "id": "faculty",
+      "title": "Faculty advisors",
+      "description": "Guiding the society's research direction and lab access.",
+      "layout": "feature",
+      "members": [
+
+        { "name": "faculty 1", "role": "Faculty advisor", "email": "example@gmail.com","bio": "faculty bio"} ,
+        { "name": "faculty 2", "role": "Faculty co-advisor", "bio": "faciltu bio" }
+      ]
+    },
+    {
+      "id": "leadership",
+      "title": "Leadership",
+      "description": "Elected each year by the members.",
+      "layout": "grid",
+      "members": [
+        { "name": "person 1", "role": "President", "github":   "octocat", "linkedin": "https://linkedin.com" },
+        { "name": "person 2", "role":"Vice president","github":"octocat", "linkedin": "https://linkedin.com" },
+        { "name": "perosn 3", "role": "Team 1 Lead", "github": "octocat", "linkedin": "https://linkedin.com" },
+        { "name": "perosn 4", "role": "team 2 lead", "github": "octocat", "linkedin": "https://linkedin.com"},
+        { "name": "perosn 5", "role": "team 3 lead", "github": "octocat", "linkedin": "https://linkedin.com"}
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Core team",
+      "description": "The people who run workshops, projects and events week to week.",
+      "layout": "compact",
+      "members": [
+        { "name": "person6", "role": "role", "github": "octocat"},
+        { "name": "person7", "role": "role", "github": "octocat" },
+        { "name": "person8", "role": "role", "linkedin": "https://linkedin.com" },
+        { "name": "person9", "role": "role", "github": "octocat" },
+        { "name": "person10", "role": "role", "linkedin": "https://linkedin.com" },
+        { "name": "person11", "role": "role", "github": "octocat" },
+        { "name": "person12", "role": "role", "linkedin": "https://linkedin.com" },
+        { "name": "person13", "role": "role", "github": "octocat" }
+      ]
+    }
+  ]
+}

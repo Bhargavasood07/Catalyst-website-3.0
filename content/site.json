@@ -1,0 +1,69 @@
+{
+  "name": "Catalyst Gen AI",
+  "shortName": "Catalyst",
+  "tagline": "The AI engineering society that builds what it studies.",
+  "description": "Catalyst Gen AI is the college's AI engineering society. We read papers, rebuild them from scratch, and ship working projects every month.",
+  "url": "https://catalyst-gen-ai.vercel.app",
+  "locale": "en_IN",
+  "timezone": "Asia/Kolkata",
+  "email": "catalyst.genai@yourcollege.edu",
+  "college": {
+    "name": "JIMS Greater Noida",
+    "address": "Knowledge Park 3, Greater Noida",
+    "mapUrl": "https://maps.app.goo.gl/RLMvgwdveujzmbGcA"
+  },
+  "socials": {
+    "github": "https://github.com/catalyst-gen-ai",
+    "linkedin": "https://www.linkedin.com/company/catalyst-gen-ai",
+    "instagram": "https://www.instagram.com/catalyst.genai",
+    "discord": "https://discord.gg/catalyst"
+  },
+  "recruiting": {
+    "open": false,
+    "closes": "2026-11-20T23:59",
+    "note": "Applications for the 2026–27 cohort are closed."
+  },
+  "hero": {
+    "lede": "We read the papers on Monday, rebuild them by Friday, and ship something people can use by the end of the month.",
+    "primaryCta": { "label": "Apply to join", "href": "#join" },
+    "secondaryCta": { "label": "See upcoming events", "href": "#events" },
+    "model": "catalyst-1",
+    "prompts": [
+      {
+        "prompt": "What does Catalyst Gen AI actually do?",
+        "completion": "We pick one idea from current AI research every few weeks, rebuild it from an empty notebook, and turn the best rebuilds into projects with real users. Bring curiosity; we bring the GPUs."
+      },
+      {
+        "prompt": "Explain attention in one sentence.",
+        "completion": "Every token asks every other token how much it matters right now, and those answers decide what the model pays attention to next."
+      },
+      {
+        "prompt": "Can I join if I've never trained a model?",
+        "completion": "Yes. Most of us hadn't either. Our first workshop takes you from an empty notebook to a fine-tuned model in a single evening."
+      }
+    ]
+  },
+  "manifesto": {
+    "statement": "AI research moves faster than any syllabus. We close the gap the only way that works: every idea we study ends up as code that someone else can run.",
+    "paragraphs": [
+      "Catalyst Gen AI started as a reading group that kept getting distracted by implementation. That turned out to be the point. Understanding a model properly means watching it fail on your own laptop first.",
+      "Today we're a society of builders across every branch and year. Some of us came for the maths, some for the products, and some because a demo night looked like fun. All of us leave able to take a paper, a dataset or a vague idea and turn it into something that works."
+    ],
+    "loop": [
+      { "title": "Read", "body": "A weekly session picks one paper or technique worth understanding properly, and someone teaches it on a whiteboard." },
+      { "title": "Reproduce", "body": "Small teams rebuild it from scratch, notebook first. Breaking things is expected; that's where the understanding comes from." },
+      { "title": "Build", "body": "The strongest reproductions become projects with a repo, a roadmap and people who rely on them." },
+      { "title": "Demo", "body": "Every month ends with a demo night open to the whole campus. Then we pick the next paper." }
+    ]
+  },
+  "contact": {
+    "heading": "Join Catalyst, or just say hello",
+    "body": "Students apply here to join the society. Companies, labs and other societies use the same form for collaborations and sponsorship.",
+    "responseTime": "3 working days",
+    "perks": [
+      "GPU credits and lab access for society projects",
+      "A mentor from the senior core team in your first semester",
+      "Priority seats at every workshop and hackathon"
+    ]
+  }
+}

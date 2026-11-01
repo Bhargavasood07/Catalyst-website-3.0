@@ -1,0 +1,158 @@
+{
+  "categories": [
+    {
+      "id": "hackathons",
+      "label": "Hackathons"
+    },
+    {
+      "id": "workshops",
+      "label": "Workshops"
+    },
+    {
+      "id": "lab",
+      "label": "Lab sessions"
+    },
+    {
+      "id": "demos",
+      "label": "Demo nights"
+    },
+    {
+      "id": "community",
+      "label": "Community"
+    }
+  ],
+  "items": [
+    {
+      "src": "/gallery/placeholder-01.jpg",
+      "alt": "Teams working through the night at Synthesis 2026",
+      "caption": "Synthesis 2026, hour 19",
+      "category": "hackathons",
+      "date": "2026-03",
+      "event": "Synthesis 2026"
+    },
+    {
+      "src": "/gallery/placeholder-02.jpg",
+      "alt": "Students following along on laptops during the RAG workshop",
+      "caption": "RAG from scratch",
+      "category": "workshops",
+      "date": "2026-09",
+      "event": "RAG from scratch"
+    },
+    {
+      "src": "/gallery/placeholder-03.jpg",
+      "alt": "A Jetson board wired to a camera on the lab bench",
+      "caption": "Edge inference experiments",
+      "category": "lab",
+      "date": "2026-07"
+    },
+    {
+      "src": "/gallery/placeholder-04.jpg",
+      "alt": "A presenter showing a live demo on the projector",
+      "caption": "Demo night, July",
+      "category": "demos",
+      "date": "2026-07"
+    },
+    {
+      "src": "/gallery/placeholder-05.jpg",
+      "alt": "Crowd at orientation night in the open air theatre",
+      "caption": "Orientation night 2026",
+      "category": "community",
+      "date": "2026-08",
+      "event": "Orientation night 2026"
+    },
+    {
+      "src": "/gallery/placeholder-06.jpg",
+      "alt": "Winning team holding their trophy on stage",
+      "caption": "Synthesis 2026 winners",
+      "category": "hackathons",
+      "date": "2026-03",
+      "event": "Synthesis 2026"
+    },
+    {
+      "src": "/gallery/placeholder-07.jpg",
+      "alt": "Whiteboard covered in attention equations",
+      "caption": "Attention, derived by hand",
+      "category": "workshops",
+      "date": "2026-04"
+    },
+    {
+      "src": "/gallery/placeholder-08.jpg",
+      "alt": "GPU server rack with blue status lights",
+      "caption": "The society cluster",
+      "category": "lab",
+      "date": "2026-06"
+    },
+    {
+      "src": "/gallery/placeholder-09.jpg",
+      "alt": "Audience asking questions after a project demo",
+      "caption": "Q&A after SignBridge",
+      "category": "demos",
+      "date": "2026-05"
+    },
+    {
+      "src": "/gallery/placeholder-10.jpg",
+      "alt": "Core team photo on the college steps",
+      "caption": "Core team 2026",
+      "category": "community",
+      "date": "2026-08"
+    },
+    {
+      "src": "/gallery/placeholder-11.jpg",
+      "alt": "Mentors reviewing code with a team",
+      "caption": "Mentor rounds at Build Weekend",
+      "category": "hackathons",
+      "date": "2025-11"
+    },
+    {
+      "src": "/gallery/placeholder-12.jpg",
+      "alt": "Diffusion samples projected on a big screen",
+      "caption": "Diffusion models, by hand",
+      "category": "workshops",
+      "date": "2026-02",
+      "event": "Diffusion models, by hand"
+    },
+    {
+      "src": "/gallery/placeholder-13.jpg",
+      "alt": "Robot arm being calibrated by two students",
+      "caption": "Calibrating the arm",
+      "category": "lab",
+      "date": "2026-01"
+    },
+    {
+      "src": "/gallery/placeholder-14.jpg",
+      "alt": "Campus Copilot answering a question on stage",
+      "caption": "Campus Copilot launch",
+      "category": "demos",
+      "date": "2026-04"
+    },
+    {
+      "src": "/gallery/placeholder-15.jpg",
+      "alt": "Members playing a game of quiz at the society social",
+      "caption": "End-of-semester social",
+      "category": "community",
+      "date": "2025-12"
+    },
+    {
+      "src": "/gallery/placeholder-16.jpg",
+      "alt": "Laptops and energy drinks on a hackathon table at dawn",
+      "caption": "Sunrise at Synthesis",
+      "category": "hackathons",
+      "date": "2026-03",
+      "event": "Synthesis 2026"
+    },
+    {
+      "src": "/gallery/placeholder-17.jpg",
+      "alt": "Instructor helping a student debug their notebook",
+      "caption": "Debugging together",
+      "category": "workshops",
+      "date": "2025-10"
+    },
+    {
+      "src": "/gallery/placeholder-18.jpg",
+      "alt": "Close-up of a soldering iron on a sensor board",
+      "caption": "Sensor rig for the gesture project",
+      "category": "lab",
+      "date": "2025-09"
+    }
+  ]
+}
